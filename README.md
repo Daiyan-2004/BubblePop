@@ -49,7 +49,7 @@ BubblePop/
 │
 ├── .gitignore
 ├── README.md
-
+```bash
 ---
 
 ## ▶️ How to Run the Game
