@@ -29,7 +29,7 @@ This project is part of a **game development learning project** and focuses on g
 
 ## 📁 Project Structure
 
-BubblePop/
+`BubblePop/
 │
 ├── demo/
 │ ├── iMain.cpp # Main game loop
@@ -48,7 +48,7 @@ BubblePop/
 │
 ├── .gitignore
 ├── README.md
-
+`
 
 ---
 
@@ -62,7 +62,7 @@ BubblePop/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Daiyan-2004/BubblePop.git```
+   git clone https://github.com/Daiyan-2004/BubblePop.git
 2. Open the project file in Visual Studio:
 3. Build the project (Ctrl + Shift + B)
 4. Run the game (Ctrl + F5)
