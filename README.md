@@ -29,7 +29,8 @@ This project is part of a **game development learning project** and focuses on g
 
 ## 📁 Project Structure
 
-`BubblePop/
+```bash
+BubblePop/
 │
 ├── demo/
 │ ├── iMain.cpp # Main game loop
@@ -48,7 +49,6 @@ This project is part of a **game development learning project** and focuses on g
 │
 ├── .gitignore
 ├── README.md
-`
 
 ---
 
