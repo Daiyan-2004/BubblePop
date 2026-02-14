@@ -28,8 +28,7 @@ This project is part of a **game development learning project** and focuses on g
 ---
 
 ## 📁 Project Structure
-
-```text
+```
 BubblePop/
 │
 ├── demo/
@@ -50,6 +49,7 @@ BubblePop/
 ├── .gitignore
 ├── README.md
 ---
+```
 
 ## ▶️ How to Run the Game
 
