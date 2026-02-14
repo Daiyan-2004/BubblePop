@@ -29,27 +29,26 @@ This project is part of a **game development learning project** and focuses on g
 
 ## 📁 Project Structure
 
-```bash
+```text
 BubblePop/
 │
 ├── demo/
-│ ├── iMain.cpp # Main game loop
-│ ├── Balloon.hpp # Balloon class and logic
-│ ├── Utils.hpp # Utility functions
-│ ├── iGraphics.h # Graphics wrapper
-│ ├── bitmap_loader.h # Bitmap loading
-│ ├── stb_image.h # Image loading library
-│ │
-│ ├── Images/ # Game assets
-│ │ ├── balloon1.png
-│ │ ├── balloon2.png
-│ │ └── ...
-│ │
-│ └── BubblePop Game.vcxproj
+│   ├── iMain.cpp              # Main game loop
+│   ├── Balloon.hpp            # Balloon class and logic
+│   ├── Utils.hpp              # Utility functions
+│   ├── iGraphics.h            # Graphics wrapper
+│   ├── bitmap_loader.h        # Bitmap loading
+│   ├── stb_image.h            # Image loading library
+│   │
+│   ├── Images/                # Game assets
+│   │   ├── balloon1.png
+│   │   ├── balloon2.png
+│   │   └── ...
+│   │
+│   └── BubblePop Game.vcxproj
 │
 ├── .gitignore
 ├── README.md
-```bash
 ---
 
 ## ▶️ How to Run the Game
