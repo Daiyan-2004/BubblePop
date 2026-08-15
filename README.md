@@ -1,4 +1,4 @@
-# 🎈 BubblePop Game
+# BubblePop Game
 
 BubblePop is a simple **2D arcade-style game** developed in **C++** using **OpenGL**.  
 The objective of the game is to pop balloons by interacting with them before they disappear.
@@ -7,7 +7,7 @@ This project is part of a **game development learning project** and focuses on g
 
 ---
 
-## 🕹️ Gameplay Overview
+## Gameplay Overview
 
 - Balloons appear on the screen at different positions
 - Player pops balloons using mouse or keyboard input
@@ -16,7 +16,7 @@ This project is part of a **game development learning project** and focuses on g
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **Graphics:** OpenGL
@@ -27,7 +27,7 @@ This project is part of a **game development learning project** and focuses on g
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 BubblePop/
 │
@@ -50,7 +50,7 @@ BubblePop/
 ├── README.md
 ```
 
-## ▶️ How to Run the Game
+## How to Run the Game
 
 ### Requirements
 - Windows OS
